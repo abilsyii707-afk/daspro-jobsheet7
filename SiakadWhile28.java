@@ -31,7 +31,9 @@ public class SiakadWhile28 {
              i++;
             
              }
+             // versi modifikasi SiakadWhile;
              sc.close();
     }
 }
+
               
